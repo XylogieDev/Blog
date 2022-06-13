@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+.title h1 {
+  color: white;
+  font-family: monospace;
+  word-spacing: 120%;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  font-size: 50px;
+}
+
+.text p {
+  color:white;
+  font-family: monospace;
+  font-size: 20px;
+  padding: 100px;
+  text-align: justify;
+  word-spacing: 5px;
+  line-height: 30px;
+}
+
+.xylogiee {
+  color:white;
+  font-family: monospace;
+  font-size: 100px;
+}
