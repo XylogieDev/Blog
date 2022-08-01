@@ -34,6 +34,13 @@
   font-weight: bold;
 }
 
+h1 {
+  font-family: monospace;
+  font-size: 100px;
+  color: white;
+  font-weight: bold;
+}
+
 body {
   background-color: black;
 }
@@ -55,4 +62,16 @@ body {
   font-family: monospace;
   font-size: 30px;
   color: white;
+}
+
+.hometext a {
+  color:crimson
+}
+
+.hometext a:link {
+  color:crimson
+}
+
+.hometext a:visited {
+  color:crimson
 }
