@@ -15,6 +15,10 @@
   color: white;
 }
 
+.menu a:link {
+  color: white;
+}
+
 .menu a:visited {
   color: white;
 }
