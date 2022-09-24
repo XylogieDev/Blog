@@ -13,7 +13,7 @@
 .menu a {
   color: white;
   font-size: 20px;
-  transition: 100ms;
+  transition: 100ms;  
 }
 
 .menu a:hover {
