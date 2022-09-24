@@ -1,11 +1,9 @@
 .menu li{
   display: inline;
   font-family: monospace;
-  font-size: 20px;
   color: white;
   font-weight: bold;
   padding: 10px 30px;
-
 }
 
 .menu {
@@ -14,6 +12,13 @@
 
 .menu a {
   color: white;
+  font-size: 20px;
+  transition: 100ms;
+}
+
+.menu a:hover {
+  font-size: 25px;
+  transition:100ms
 }
 
 .menu a:link {
